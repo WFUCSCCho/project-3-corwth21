@@ -322,7 +322,6 @@ public class Proj3 {
 
         switch(algoType.toLowerCase()){
             case "bubble" -> {
-                System.out.println(algoType);
                 //Find duration for shuffled data set
                 long startTime = System.nanoTime();
                 int bubble_comparisons_shuffled = bubbleSort(candidates_shuffled, numLines);
@@ -341,6 +340,7 @@ public class Proj3 {
                 endTime = System.nanoTime();
                 long reversed_bubbleSort_duration = endTime - startTime;
 
+                //Print to analysis.txt
                 printWriter.println("-------------------------------------------------------");
                 printWriter.println("BUBBLE SORT results for " + numLines + " lines:");
                 printWriter.println("Shuffled dataset runtime (ns): " + shuffled_bubbleSort_duration);
@@ -351,8 +351,20 @@ public class Proj3 {
                 printWriter.println();
                 printWriter.println("Reversed dataset runtime (ns): " + reversed_bubbleSort_duration);
                 printWriter.println("Reversed dataset # of comparisons: " + bubble_comparisons_reversed);
-
                 printWriter.println("-------------------------------------------------------");
+
+                //Print to screen
+                System.out.println("-------------------------------------------------------");
+                System.out.println("ODDEVEN SORT results for " + numLines + " lines:");
+                System.out.println("Shuffled dataset runtime (ns): " + shuffled_bubbleSort_duration);
+                System.out.println("Shuffled dataset # of comparisons: " + bubble_comparisons_shuffled);
+                System.out.println();
+                System.out.println("Sorted dataset runtime (ns): " + sorted_bubbleSort_duration);
+                System.out.println("Sorted dataset # of comparisons: " + bubble_comparisons_sorted);
+                System.out.println();
+                System.out.println("Reversed dataset runtime (ns): " + reversed_bubbleSort_duration);
+                System.out.println("Reversed dataset # of comparisons: " + bubble_comparisons_reversed);
+                System.out.println("-------------------------------------------------------");
 
                 // Close the writer
                 printWriter.close();
@@ -361,7 +373,6 @@ public class Proj3 {
                 printArrayWeights(candidates_shuffled);
 
             } case "oddeven" -> {
-                System.out.println(algoType);
                 //Find duration for shuffled data set
                 long startTime = System.nanoTime();
                 int oddeven_comparisons_shuffled = transpositionSort(candidates_shuffled, numLines);
@@ -380,6 +391,7 @@ public class Proj3 {
                 endTime = System.nanoTime();
                 long reversed_oddeven_duration = endTime - startTime;
 
+                //Print to analysis.txt
                 printWriter.println("-------------------------------------------------------");
                 printWriter.println("ODDEVEN SORT results for " + numLines + " lines:");
                 printWriter.println("Shuffled dataset runtime (ns): " + shuffled_oddeven_duration);
@@ -392,6 +404,19 @@ public class Proj3 {
                 printWriter.println("Reversed dataset # of comparisons: " + oddeven_comparisons_reversed);
                 printWriter.println("-------------------------------------------------------");
 
+                //Print to screen
+                System.out.println("-------------------------------------------------------");
+                System.out.println("ODDEVEN SORT results for " + numLines + " lines:");
+                System.out.println("Shuffled dataset runtime (ns): " + shuffled_oddeven_duration);
+                System.out.println("Shuffled dataset # of comparisons: " + oddeven_comparisons_shuffled);
+                System.out.println();
+                System.out.println("Sorted dataset runtime (ns): " + sorted_oddeven_duration);
+                System.out.println("Sorted dataset # of comparisons: " + oddeven_comparisons_sorted);
+                System.out.println();
+                System.out.println("Reversed dataset runtime (ns): " + reversed_oddeven_duration);
+                System.out.println("Reversed dataset # of comparisons: " + oddeven_comparisons_reversed);
+                System.out.println("-------------------------------------------------------");
+
                 // Close the writer
                 printWriter.close();
 
@@ -399,7 +424,6 @@ public class Proj3 {
                 printArrayWeights(candidates_shuffled);
 
             } case "heap" -> {
-                System.out.println(algoType);
                 //Find duration for shuffled data set
                 long startTime = System.nanoTime();
                 heapSort(candidates_shuffled, 0, candidates_shuffled.size() - 1);
@@ -418,6 +442,7 @@ public class Proj3 {
                 endTime = System.nanoTime();
                 long reversed_heap_duration = endTime - startTime;
 
+                //Print to analysis.txt
                 printWriter.println("-------------------------------------------------------");
                 printWriter.println("HEAP SORT results for " + numLines + " lines:");
                 printWriter.println("Shuffled dataset runtime (ns): " + shuffled_heap_duration);
@@ -427,6 +452,16 @@ public class Proj3 {
                 printWriter.println("Reversed dataset runtime (ns): " + reversed_heap_duration);
                 printWriter.println("-------------------------------------------------------");
 
+                //Print to screen
+                System.out.println("-------------------------------------------------------");
+                System.out.println("HEAP SORT results for " + numLines + " lines:");
+                System.out.println("Shuffled dataset runtime (ns): " + shuffled_heap_duration);
+                System.out.println();
+                System.out.println("Sorted dataset runtime (ns): " + sorted_heap_duration);
+                System.out.println();
+                System.out.println("Reversed dataset runtime (ns): " + reversed_heap_duration);
+                System.out.println("-------------------------------------------------------");
+
                 // Close the writer
                 printWriter.close();
 
@@ -434,7 +469,6 @@ public class Proj3 {
                 printArrayWeights(candidates_shuffled);
 
             } case "quick" -> {
-                System.out.println(algoType);
                 //Find duration for shuffled data set
                 long startTime = System.nanoTime();
                 quickSort(candidates_shuffled, 0, candidates_shuffled.size() - 1);
@@ -453,6 +487,7 @@ public class Proj3 {
                 endTime = System.nanoTime();
                 long reversed_quick_duration = endTime - startTime;
 
+                //Print to analysis.txt
                 printWriter.println("-------------------------------------------------------");
                 printWriter.println("QUICK SORT results for " + numLines + " lines:");
                 printWriter.println("Shuffled dataset runtime (ns): " + shuffled_quick_duration);
@@ -462,6 +497,16 @@ public class Proj3 {
                 printWriter.println("Reversed dataset runtime (ns): " + reversed_quick_duration);
                 printWriter.println("-------------------------------------------------------");
 
+                //Print to screen
+                System.out.println("-------------------------------------------------------");
+                System.out.println("QUICK SORT results for " + numLines + " lines:");
+                System.out.println("Shuffled dataset runtime (ns): " + shuffled_quick_duration);
+                System.out.println();
+                System.out.println("Sorted dataset runtime (ns): " + sorted_quick_duration);
+                System.out.println();
+                System.out.println("Reversed dataset runtime (ns): " + reversed_quick_duration);
+                System.out.println("-------------------------------------------------------");
+
                 // Close the writer
                 printWriter.close();
 
@@ -469,7 +514,6 @@ public class Proj3 {
                 printArrayWeights(candidates_shuffled);
 
             } case "merge" -> {
-
                 //Find duration for shuffled data set
                 long startTime = System.nanoTime();
                 mergeSort(candidates_shuffled, 0, candidates_shuffled.size() - 1);

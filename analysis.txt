@@ -477,3 +477,25 @@ Sorted dataset # of comparisons: 0
 Reversed dataset runtime (ns): 10220410
 Reversed dataset # of comparisons: 495645
 -------------------------------------------------------
+-------------------------------------------------------
+ODDEVEN SORT results for 1000 lines:
+Shuffled dataset runtime (ns): 26705654
+Shuffled dataset # of comparisons: 242350
+
+Sorted dataset runtime (ns): 104696
+Sorted dataset # of comparisons: 0
+
+Reversed dataset runtime (ns): 7400066
+Reversed dataset # of comparisons: 495645
+-------------------------------------------------------
+-------------------------------------------------------
+ODDEVEN SORT results for 1000 lines:
+Shuffled dataset runtime (ns): 20183585
+Shuffled dataset # of comparisons: 246366
+
+Sorted dataset runtime (ns): 50136
+Sorted dataset # of comparisons: 0
+
+Reversed dataset runtime (ns): 8900777
+Reversed dataset # of comparisons: 495645
+-------------------------------------------------------
