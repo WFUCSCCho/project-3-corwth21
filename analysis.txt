@@ -1,0 +1,501 @@
+-------------------------------------------------------
+MERGE SORT results for 100 lines:
+Shuffled dataset runtime (ns): 558288
+
+Sorted dataset runtime (ns): 236403
+
+Reversed dataset runtime (ns): 215371
+-------------------------------------------------------
+-------------------------------------------------------
+MERGE SORT results for 100 lines:
+Shuffled dataset runtime (ns): 1085934
+
+Sorted dataset runtime (ns): 660413
+
+Reversed dataset runtime (ns): 418136
+-------------------------------------------------------
+-------------------------------------------------------
+MERGE SORT results for 100 lines:
+Shuffled dataset runtime (ns): 678194
+
+Sorted dataset runtime (ns): 454246
+
+Reversed dataset runtime (ns): 381959
+-------------------------------------------------------
+-------------------------------------------------------
+MERGE SORT results for 100 lines:
+Shuffled dataset runtime (ns): 1281660
+
+Sorted dataset runtime (ns): 612286
+
+Reversed dataset runtime (ns): 332501
+-------------------------------------------------------
+-------------------------------------------------------
+MERGE SORT results for 100 lines:
+Shuffled dataset runtime (ns): 410553
+
+Sorted dataset runtime (ns): 246854
+
+Reversed dataset runtime (ns): 214272
+-------------------------------------------------------
+-------------------------------------------------------
+MERGE SORT results for 100 lines:
+Shuffled dataset runtime (ns): 627934
+
+Sorted dataset runtime (ns): 211996
+
+Reversed dataset runtime (ns): 199670
+-------------------------------------------------------
+-------------------------------------------------------
+MERGE SORT results for 100 lines:
+Shuffled dataset runtime (ns): 449582
+
+Sorted dataset runtime (ns): 295563
+
+Reversed dataset runtime (ns): 229335
+-------------------------------------------------------
+-------------------------------------------------------
+MERGE SORT results for 100 lines:
+Shuffled dataset runtime (ns): 458762
+
+Sorted dataset runtime (ns): 343957
+
+Reversed dataset runtime (ns): 214262
+-------------------------------------------------------
+-------------------------------------------------------
+MERGE SORT results for 100 lines:
+Shuffled dataset runtime (ns): 435113
+
+Sorted dataset runtime (ns): 379725
+
+Reversed dataset runtime (ns): 335629
+-------------------------------------------------------
+-------------------------------------------------------
+MERGE SORT results for 100 lines:
+Shuffled dataset runtime (ns): 655816
+
+Sorted dataset runtime (ns): 371925
+
+Reversed dataset runtime (ns): 414072
+-------------------------------------------------------
+-------------------------------------------------------
+QUICK SORT results for 100 lines:
+Shuffled dataset runtime (ns): 886428
+
+Sorted dataset runtime (ns): 1309150
+
+Reversed dataset runtime (ns): 522180
+-------------------------------------------------------
+-------------------------------------------------------
+QUICK SORT results for 100 lines:
+Shuffled dataset runtime (ns): 395991
+
+Sorted dataset runtime (ns): 970987
+
+Reversed dataset runtime (ns): 303233
+-------------------------------------------------------
+-------------------------------------------------------
+QUICK SORT results for 100 lines:
+Shuffled dataset runtime (ns): 414244
+
+Sorted dataset runtime (ns): 1120195
+
+Reversed dataset runtime (ns): 297994
+-------------------------------------------------------
+-------------------------------------------------------
+QUICK SORT results for 100 lines:
+Shuffled dataset runtime (ns): 490822
+
+Sorted dataset runtime (ns): 1549616
+
+Reversed dataset runtime (ns): 430536
+-------------------------------------------------------
+-------------------------------------------------------
+QUICK SORT results for 100 lines:
+Shuffled dataset runtime (ns): 403411
+
+Sorted dataset runtime (ns): 1250394
+
+Reversed dataset runtime (ns): 252656
+-------------------------------------------------------
+-------------------------------------------------------
+QUICK SORT results for 100 lines:
+Shuffled dataset runtime (ns): 573244
+
+Sorted dataset runtime (ns): 1843151
+
+Reversed dataset runtime (ns): 518646
+-------------------------------------------------------
+-------------------------------------------------------
+QUICK SORT results for 100 lines:
+Shuffled dataset runtime (ns): 403992
+
+Sorted dataset runtime (ns): 1083312
+
+Reversed dataset runtime (ns): 390989
+-------------------------------------------------------
+-------------------------------------------------------
+QUICK SORT results for 100 lines:
+Shuffled dataset runtime (ns): 499345
+
+Sorted dataset runtime (ns): 1294008
+
+Reversed dataset runtime (ns): 371244
+-------------------------------------------------------
+-------------------------------------------------------
+QUICK SORT results for 100 lines:
+Shuffled dataset runtime (ns): 408004
+
+Sorted dataset runtime (ns): 1249823
+
+Reversed dataset runtime (ns): 401064
+-------------------------------------------------------
+-------------------------------------------------------
+QUICK SORT results for 100 lines:
+Shuffled dataset runtime (ns): 438583
+
+Sorted dataset runtime (ns): 1239036
+
+Reversed dataset runtime (ns): 594104
+-------------------------------------------------------
+-------------------------------------------------------
+HEAP SORT results for 100 lines:
+Shuffled dataset runtime (ns): 600970
+
+Sorted dataset runtime (ns): 448525
+
+Reversed dataset runtime (ns): 265146
+-------------------------------------------------------
+-------------------------------------------------------
+HEAP SORT results for 100 lines:
+Shuffled dataset runtime (ns): 469374
+
+Sorted dataset runtime (ns): 280027
+
+Reversed dataset runtime (ns): 265816
+-------------------------------------------------------
+-------------------------------------------------------
+HEAP SORT results for 100 lines:
+Shuffled dataset runtime (ns): 525668
+
+Sorted dataset runtime (ns): 309487
+
+Reversed dataset runtime (ns): 253708
+-------------------------------------------------------
+-------------------------------------------------------
+HEAP SORT results for 100 lines:
+Shuffled dataset runtime (ns): 671459
+
+Sorted dataset runtime (ns): 356264
+
+Reversed dataset runtime (ns): 200034
+-------------------------------------------------------
+-------------------------------------------------------
+HEAP SORT results for 100 lines:
+Shuffled dataset runtime (ns): 389343
+
+Sorted dataset runtime (ns): 228268
+
+Reversed dataset runtime (ns): 163839
+-------------------------------------------------------
+-------------------------------------------------------
+HEAP SORT results for 100 lines:
+Shuffled dataset runtime (ns): 574224
+
+Sorted dataset runtime (ns): 257591
+
+Reversed dataset runtime (ns): 181227
+-------------------------------------------------------
+-------------------------------------------------------
+HEAP SORT results for 100 lines:
+Shuffled dataset runtime (ns): 646921
+
+Sorted dataset runtime (ns): 327969
+
+Reversed dataset runtime (ns): 256200
+-------------------------------------------------------
+-------------------------------------------------------
+HEAP SORT results for 100 lines:
+Shuffled dataset runtime (ns): 496131
+
+Sorted dataset runtime (ns): 236368
+
+Reversed dataset runtime (ns): 249976
+-------------------------------------------------------
+-------------------------------------------------------
+HEAP SORT results for 100 lines:
+Shuffled dataset runtime (ns): 905116
+
+Sorted dataset runtime (ns): 329869
+
+Reversed dataset runtime (ns): 525424
+-------------------------------------------------------
+-------------------------------------------------------
+HEAP SORT results for 100 lines:
+Shuffled dataset runtime (ns): 443022
+
+Sorted dataset runtime (ns): 224813
+
+Reversed dataset runtime (ns): 161358
+-------------------------------------------------------
+-------------------------------------------------------
+ODDEVEN SORT results for 100 lines:
+Shuffled dataset runtime (ns): 1319178
+Shuffled dataset # of comparisons: 2670
+
+Sorted dataset runtime (ns): 8776
+Sorted dataset # of comparisons: 0
+
+Reversed dataset runtime (ns): 661066
+Reversed dataset # of comparisons: 4915
+-------------------------------------------------------
+-------------------------------------------------------
+ODDEVEN SORT results for 100 lines:
+Shuffled dataset runtime (ns): 1418628
+Shuffled dataset # of comparisons: 2373
+
+Sorted dataset runtime (ns): 11245
+Sorted dataset # of comparisons: 0
+
+Reversed dataset runtime (ns): 955252
+Reversed dataset # of comparisons: 4915
+-------------------------------------------------------
+-------------------------------------------------------
+ODDEVEN SORT results for 100 lines:
+Shuffled dataset runtime (ns): 1612433
+Shuffled dataset # of comparisons: 2638
+
+Sorted dataset runtime (ns): 34746
+Sorted dataset # of comparisons: 0
+
+Reversed dataset runtime (ns): 1012388
+Reversed dataset # of comparisons: 4915
+-------------------------------------------------------
+-------------------------------------------------------
+ODDEVEN SORT results for 100 lines:
+Shuffled dataset runtime (ns): 1207899
+Shuffled dataset # of comparisons: 2376
+
+Sorted dataset runtime (ns): 8628
+Sorted dataset # of comparisons: 0
+
+Reversed dataset runtime (ns): 640694
+Reversed dataset # of comparisons: 4915
+-------------------------------------------------------
+-------------------------------------------------------
+ODDEVEN SORT results for 100 lines:
+Shuffled dataset runtime (ns): 1633944
+Shuffled dataset # of comparisons: 2514
+
+Sorted dataset runtime (ns): 13147
+Sorted dataset # of comparisons: 0
+
+Reversed dataset runtime (ns): 1002275
+Reversed dataset # of comparisons: 4915
+-------------------------------------------------------
+-------------------------------------------------------
+ODDEVEN SORT results for 100 lines:
+Shuffled dataset runtime (ns): 1301087
+Shuffled dataset # of comparisons: 2440
+
+Sorted dataset runtime (ns): 34632
+Sorted dataset # of comparisons: 0
+
+Reversed dataset runtime (ns): 994897
+Reversed dataset # of comparisons: 4915
+-------------------------------------------------------
+-------------------------------------------------------
+ODDEVEN SORT results for 100 lines:
+Shuffled dataset runtime (ns): 2580442
+Shuffled dataset # of comparisons: 2599
+
+Sorted dataset runtime (ns): 13744
+Sorted dataset # of comparisons: 0
+
+Reversed dataset runtime (ns): 1224373
+Reversed dataset # of comparisons: 4915
+-------------------------------------------------------
+-------------------------------------------------------
+ODDEVEN SORT results for 100 lines:
+Shuffled dataset runtime (ns): 1247985
+Shuffled dataset # of comparisons: 2424
+
+Sorted dataset runtime (ns): 8969
+Sorted dataset # of comparisons: 0
+
+Reversed dataset runtime (ns): 672632
+Reversed dataset # of comparisons: 4915
+-------------------------------------------------------
+-------------------------------------------------------
+ODDEVEN SORT results for 100 lines:
+Shuffled dataset runtime (ns): 1404225
+Shuffled dataset # of comparisons: 2354
+
+Sorted dataset runtime (ns): 12942
+Sorted dataset # of comparisons: 0
+
+Reversed dataset runtime (ns): 895240
+Reversed dataset # of comparisons: 4915
+-------------------------------------------------------
+-------------------------------------------------------
+ODDEVEN SORT results for 100 lines:
+Shuffled dataset runtime (ns): 1395166
+Shuffled dataset # of comparisons: 2476
+
+Sorted dataset runtime (ns): 8970
+Sorted dataset # of comparisons: 0
+
+Reversed dataset runtime (ns): 638718
+Reversed dataset # of comparisons: 4915
+-------------------------------------------------------
+-------------------------------------------------------
+BUBBLE SORT results for 100 lines:
+Shuffled dataset runtime (ns): 1305556
+Shuffled dataset # of comparisons: 2713
+
+Sorted dataset runtime (ns): 13921
+Sorted dataset # of comparisons: 0
+
+Reversed dataset runtime (ns): 797208
+Reversed dataset # of comparisons: 4915
+-------------------------------------------------------
+-------------------------------------------------------
+BUBBLE SORT results for 100 lines:
+Shuffled dataset runtime (ns): 1940289
+Shuffled dataset # of comparisons: 2520
+
+Sorted dataset runtime (ns): 29064
+Sorted dataset # of comparisons: 0
+
+Reversed dataset runtime (ns): 1128928
+Reversed dataset # of comparisons: 4915
+-------------------------------------------------------
+-------------------------------------------------------
+BUBBLE SORT results for 100 lines:
+Shuffled dataset runtime (ns): 1236083
+Shuffled dataset # of comparisons: 2508
+
+Sorted dataset runtime (ns): 17840
+Sorted dataset # of comparisons: 0
+
+Reversed dataset runtime (ns): 980406
+Reversed dataset # of comparisons: 4915
+-------------------------------------------------------
+-------------------------------------------------------
+BUBBLE SORT results for 100 lines:
+Shuffled dataset runtime (ns): 1326456
+Shuffled dataset # of comparisons: 2315
+
+Sorted dataset runtime (ns): 12214
+Sorted dataset # of comparisons: 0
+
+Reversed dataset runtime (ns): 1035210
+Reversed dataset # of comparisons: 4915
+-------------------------------------------------------
+-------------------------------------------------------
+BUBBLE SORT results for 100 lines:
+Shuffled dataset runtime (ns): 1183030
+Shuffled dataset # of comparisons: 2382
+
+Sorted dataset runtime (ns): 9468
+Sorted dataset # of comparisons: 0
+
+Reversed dataset runtime (ns): 749983
+Reversed dataset # of comparisons: 4915
+-------------------------------------------------------
+-------------------------------------------------------
+BUBBLE SORT results for 100 lines:
+Shuffled dataset runtime (ns): 1132365
+Shuffled dataset # of comparisons: 2165
+
+Sorted dataset runtime (ns): 11878
+Sorted dataset # of comparisons: 0
+
+Reversed dataset runtime (ns): 631135
+Reversed dataset # of comparisons: 4915
+-------------------------------------------------------
+-------------------------------------------------------
+BUBBLE SORT results for 100 lines:
+Shuffled dataset runtime (ns): 1880854
+Shuffled dataset # of comparisons: 2652
+
+Sorted dataset runtime (ns): 20918
+Sorted dataset # of comparisons: 0
+
+Reversed dataset runtime (ns): 1072585
+Reversed dataset # of comparisons: 4915
+-------------------------------------------------------
+-------------------------------------------------------
+BUBBLE SORT results for 100 lines:
+Shuffled dataset runtime (ns): 1165784
+Shuffled dataset # of comparisons: 2583
+
+Sorted dataset runtime (ns): 10686
+Sorted dataset # of comparisons: 0
+
+Reversed dataset runtime (ns): 774624
+Reversed dataset # of comparisons: 4915
+-------------------------------------------------------
+-------------------------------------------------------
+BUBBLE SORT results for 100 lines:
+Shuffled dataset runtime (ns): 1117795
+Shuffled dataset # of comparisons: 2105
+
+Sorted dataset runtime (ns): 10303
+Sorted dataset # of comparisons: 0
+
+Reversed dataset runtime (ns): 606126
+Reversed dataset # of comparisons: 4915
+-------------------------------------------------------
+-------------------------------------------------------
+BUBBLE SORT results for 100 lines:
+Shuffled dataset runtime (ns): 1530184
+Shuffled dataset # of comparisons: 2629
+
+Sorted dataset runtime (ns): 67873
+Sorted dataset # of comparisons: 0
+
+Reversed dataset runtime (ns): 940177
+Reversed dataset # of comparisons: 4915
+-------------------------------------------------------
+-------------------------------------------------------
+MERGE SORT results for 600 lines:
+Shuffled dataset runtime (ns): 2728978
+
+Sorted dataset runtime (ns): 1354680
+
+Reversed dataset runtime (ns): 1341860
+-------------------------------------------------------
+-------------------------------------------------------
+ODDEVEN SORT results for 1000 lines:
+Shuffled dataset runtime (ns): 21655107
+Shuffled dataset # of comparisons: 250555
+
+Sorted dataset runtime (ns): 41704
+Sorted dataset # of comparisons: 0
+
+Reversed dataset runtime (ns): 10220410
+Reversed dataset # of comparisons: 495645
+-------------------------------------------------------
+-------------------------------------------------------
+ODDEVEN SORT results for 1000 lines:
+Shuffled dataset runtime (ns): 26705654
+Shuffled dataset # of comparisons: 242350
+
+Sorted dataset runtime (ns): 104696
+Sorted dataset # of comparisons: 0
+
+Reversed dataset runtime (ns): 7400066
+Reversed dataset # of comparisons: 495645
+-------------------------------------------------------
+-------------------------------------------------------
+ODDEVEN SORT results for 1000 lines:
+Shuffled dataset runtime (ns): 20183585
+Shuffled dataset # of comparisons: 246366
+
+Sorted dataset runtime (ns): 50136
+Sorted dataset # of comparisons: 0
+
+Reversed dataset runtime (ns): 8900777
+Reversed dataset # of comparisons: 495645
+-------------------------------------------------------
