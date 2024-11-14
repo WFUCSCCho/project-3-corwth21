@@ -4,6 +4,14 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.Scanner;
+/**
+ * @file: Proj3.java
+ * @description: This program creates a variety of sorting algorithms and tests their running speed given different input lists.
+ * ALso prints the resulting run times.
+ * @author: Tucker Corwen
+ * @date: November 14, 2024
+ */
+
 
 public class Proj3 {
     // Sorting Method declarations

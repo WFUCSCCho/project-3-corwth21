@@ -3,7 +3,7 @@
  * @description: This program creates a custom Candidate class that stores all the combine information
  * of any athlete that had participated in the NFL combine from 1987 to 2018
  * @author: Tucker Corwen
- * @date: October 23, 2024
+ * @date: November 14, 2024
  */
 
 public class Candidate implements Comparable<Candidate> {
